@@ -1,0 +1,188 @@
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.pdb
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.dll
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.dll
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.dll
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\MetroFramework.dll
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.xml
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.xml
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.xml
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csprojResolveAssemblyReference.cache
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.Properties.Resources.resources
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csproj.GenerateResource.Cache
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
+c:\users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.MainWindowForm.resources
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.dll
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.xml
+C:\Users\abhimanbhau\documents\visual studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.SettingsForm.resources
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.pdb
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\MetroFramework.dll
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.xml
+M:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.xml
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csprojResolveAssemblyReference.cache
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.MainWindowForm.resources
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.Properties.Resources.resources
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.SettingsForm.resources
+M:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csproj.GenerateResource.Cache
+C:\Users\abhimanbhau\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.dll
+C:\Users\abhimanbhau\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\abhimanbhau\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.pdb
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\MetroFramework.dll
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.xml
+F:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.xml
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csprojResolveAssemblyReference.cache
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.MainWindowForm.resources
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.Properties.Resources.resources
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.SettingsForm.resources
+F:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\MetroFramework.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.MainWindowForm.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.SettingsForm.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.FrmCrop.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmResize.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmGamma.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmInsertText.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmBright.resources
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.pdb
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\MetroFramework.dll
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Imaging.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.MachineLearning.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Math.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Statistics.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\Accord.Vision.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Controls.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Imaging.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Math.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Video.xml
+D:\PhotoManiaPro\PhotoManiaPro\bin\Debug\AForge.Vision.xml
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csprojResolveAssemblyReference.cache
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmBright.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.FrmCrop.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmGamma.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmInsertText.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmLogin.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.frmResize.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.MainWindowForm.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.Properties.Resources.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.SettingsForm.resources
+D:\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.csproj.GenerateResource.Cache
+J:\projects\PhotoManiaPro\PhotoManiaPro\bin\Debug\PhotoManiaPro.exe.config
+J:\projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.exe
+J:\projects\PhotoManiaPro\PhotoManiaPro\obj\Debug\PhotoManiaPro.pdb
